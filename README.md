@@ -1,5 +1,4 @@
-# RAM
-Robotic Arm Mimicking Human Arm Movements - 
+# Real-time Articulated Arm Control through Open Pose Algorithm (RAACOPA)
 1. The objective of this project was to control a robotic arm solely by the user's arm movements - the shoulder and elbow movements without
  the use of any physical sensors (such as accelerometer, gyro , etc.) by the user.
 2. This was achieved by the OpenPose body pose detection algorithm that detects key points on the user
